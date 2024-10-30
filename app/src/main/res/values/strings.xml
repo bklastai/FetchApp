@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FetchApp</string>
+    <string name="fetch_data">Fetch data</string>
+    <string name="link_for_things">https://fetch-hiring.s3.amazonaws.com/hiring.json</string>
+    <string name="list_id">List ID</string>
+    <string name="item_id">Item ID</string>
+    <string name="item_name">Item name</string>
+    <string name="somethings_wrong">Something\'s wrong. Make sure you are connected to the internet.</string>
+</resources>
